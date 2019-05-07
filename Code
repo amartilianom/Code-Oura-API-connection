@@ -1,5 +1,5 @@
-var CLIENT_ID = 'SYBFWRS43CIPXLYT';
-var CLIENT_SECRET = '4IHFRLJN45I64F2X76EZQRQ3FFYDKZUQ';
+var CLIENT_ID = 'CLIEN_ID';
+var CLIENT_SECRET = 'CLIENT_SECRET';
 
 /**
  * Authorizes and makes a request to the Oura API.
